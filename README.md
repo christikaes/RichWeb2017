@@ -1,11 +1,12 @@
 # RichWeb2017
+https://tinyurl.com/RichWeb2017
 
 ## Building Stunning User Interfaces
 * Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/UserInterfaces.pdf
-* RoboForHire:
-  * JS: 
-  * React: 
-  * Angular: 
+* Robo4Hire:
+  * JS: https://github.com/christinakayastha/Robo4Hire-js
+  * React: https://github.com/christinakayastha/Robo4Hire-react
+  * Angular: https://github.com/christinakayastha/Robo4Hire-angular
 * Resources:
   * Material Design
     * https://material.io
@@ -13,15 +14,19 @@
     * https://www.youtube.com/watch?v=Y0UEGsvcYvk
     * https://www.youtube.com/watch?v=xYkz0Ueg0L4
     * https://www.youtube.com/watch?v=cQzien5H2Do
-  * JS
-    * http://materializecss.com
-  * React
-    * http://www.material-ui.com
-  * Angular
-    * https://material.angular.io/
+  * JS: http://materializecss.com
+  * React: http://www.material-ui.com
+  * Angular: https://material.angular.io/
+* Also Checkout:
+  * https://framework7.io/
+  * https://getmdl.io/
+  * https://www.telerik.com/kendo-ui
 
 ## Customer Centeric Development
-* Slides: 
+* Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/UserExperience.pdf
+* Resources:
+  * Design Thinking: https://www.ideou.com/pages/design-thinking
+  * Moqups: moqups.com
 
 ## Progressive Web Applications (Angular, React)
 * Slides: https://github.com/christinakayastha/AngularSummit2017/blob/master/presentations/AngularPWA.pdf
