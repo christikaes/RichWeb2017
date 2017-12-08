@@ -38,6 +38,8 @@ https://github.com/christinakayastha/r2d2-aframe
 * Angular Progressive Web App: 
   * https://github.com/christinakayastha/MusicalBox
   * https://tinyurl.com/ngMusicBox
+* React Progressive Web App:
+  * https://github.com/christinakayastha/Robo4Hire-js
 * Resources:
   * https://mobile.angular.io/
   * https://jakearchibald.github.io/isserviceworkerready/
