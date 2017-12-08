@@ -1,6 +1,8 @@
 # RichWeb2017
 https://tinyurl.com/RichWeb2017
 
+https://github.com/christinakayastha/r2d2-aframe
+
 ## Building Stunning User Interfaces
 * Slides: https://github.com/christinakayastha/RichWeb2017/blob/master/presentations/UserInterfaces.pdf
 * Robo4Hire:
